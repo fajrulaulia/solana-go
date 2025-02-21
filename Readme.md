@@ -14,6 +14,7 @@ go run main.go
 Setelah transaksi berhasil, hash transaksi akan ditampilkan. Lihat img.png untuk evidence log.
 
 Evidence
+![Transaction Log](https://raw.githubusercontent.com/fajrulaulia/solana-go/refs/heads/main/img.png)
 
 
 ## Dependensi
